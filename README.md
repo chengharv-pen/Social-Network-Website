@@ -10,7 +10,7 @@ Port: 3306 <br>
 
 Link: https://npc353.encs.concordia.ca/ (this is probably invalid link now)
 
-   Username                    Password
+Columns correspond to Username and Password respectively, data used while testing.
    
     admin                       admin
     admin1                      admin
